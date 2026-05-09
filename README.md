@@ -1,2 +1,36 @@
-# finance-app-python
-Personal Finance Tracker | Python  - Designed and built a finance tracking  system using OOP principles - Implemented Factory, Singleton and  Observer design patterns- Built custom data structures without  using built-in libraries  - Features include real-time budget alerts, transaction history, undo functionality and category-wise expense analysis
+# 💰 Personal Finance Tracker
+
+A command-line finance tracking application 
+built with Python using OOP, Design Patterns 
+and Data Structures.
+
+## 🚀 Features
+- Add income and expense transactions
+- Real-time budget alerts
+- Undo last transaction
+- Category-wise expense analysis
+- Complete transaction history
+
+## 🛠️ Tech Stack
+- Language: Python 3
+- Concepts: Object-Oriented Programming
+- Patterns: Factory, Singleton, Observer
+- Structures: Linked List, Stack, Hash Map
+
+## 📦 How To Run
+```bash
+python finance_tracker.py
+```
+
+## 📚 Concepts Implemented
+| Concept | Implementation |
+|-------------------|------------------------|
+| Factory Pattern   | TransactionFactory 
+| Singleton Pattern | FinanceApp 
+| Observer Pattern  | Budget Alerts 
+| Linked List       | Transaction History 
+| Stack             | Undo Feature 
+| Hash Map          | Category Tracking 
+
+## 👤 Author
+Vanshika Jain — github.com/jainvanshika0946-ctrl
