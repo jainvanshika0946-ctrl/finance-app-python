@@ -1,28 +1,28 @@
-# 💰 Personal Finance Tracker
+# Personal Finance Tracker
 
 A command-line finance tracking application 
 built with Python using OOP, Design Patterns 
 and Data Structures.
 
-## 🚀 Features
+## Features
 - Add income and expense transactions
 - Real-time budget alerts
 - Undo last transaction
 - Category-wise expense analysis
 - Complete transaction history
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Language: Python 3
 - Concepts: Object-Oriented Programming
 - Patterns: Factory, Singleton, Observer
 - Structures: Linked List, Stack, Hash Map
 
-## 📦 How To Run
+##  How To Run
 ```bash
 python finance_tracker.py
 ```
 
-## 📚 Concepts Implemented
+##  Concepts Implemented
 | Concept | Implementation |
 |-------------------|------------------------|
 | Factory Pattern   | TransactionFactory 
