@@ -10,6 +10,8 @@ and Data Structures.
 - Undo last transaction
 - Category-wise expense analysis
 - Complete transaction history
+- <img width="584" height="878" alt="image" src="https://github.com/user-attachments/assets/978ec810-98c8-4adb-b76f-7b9f728846b0" />
+
 
 ##  Tech Stack
 - Language: Python 3
